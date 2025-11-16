@@ -17,8 +17,6 @@ Here you'll find some of my personal projects, practice exercises, and experimen
 ## Tech Stack
 `const skills: string[] = [
   "TailwindCSS",
-  "Bootstrap"
-  "JavaScript",
   "TypeScript",
   "MySQL",
   "PostgreSQL"
@@ -27,7 +25,9 @@ Here you'll find some of my personal projects, practice exercises, and experimen
   "REST APIs",
   "Docker",
   "Angular",
-  "Spring Boot"
+  "Spring Boot",
+  "KeyCloak",
+  "Postman"
 ];
 `
 ## Github stats
